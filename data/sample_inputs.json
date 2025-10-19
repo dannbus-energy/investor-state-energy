@@ -1,0 +1,8 @@
+{
+  "base_case": {
+    "fcev_capex": 4800000,
+    "annual_distance": 100000,
+    "freight_rate": 25.0,
+    "discount_rate": 0.08
+  }
+}

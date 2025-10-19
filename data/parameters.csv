@@ -1,0 +1,6 @@
+parameter,value,unit,source,confidence_band
+fcev_capex,4800000,JPY,"IEA 2024, JAMA 2024","±15%"
+hydrogen_price,400,JPY/kg,"Grubb & Newbery 2018","300-550"
+discount_rate,0.08,-,"Commercial standard","6-10%"
+vehicle_life,8,years,"Industry standard","±1 year"
+freight_rate,25,JPY/km,"Industry benchmark","22-28"
